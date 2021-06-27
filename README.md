@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-I am a Full-Stack & DevOps Engineer
+I am a Full-Stack & DevOps Engineer | Dev Polygot | Apple Fanatic
 
+[![Twitter: varunrayen](https://img.shields.io/twitter/follow/varunrayen?style=social)](https://twitter.com/varunrayen)
+[![Linkedin: varunrayen](https://img.shields.io/badge/-varunrayen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunrayen/)](https://www.linkedin.com/in/varunrayen/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=varunrayen)
+
+📫 How to reach me: `hello@varunrayen.me`
 <!--
 **varunrayen/varunrayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
